@@ -1,0 +1,9 @@
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\bin\Debug\netcoreapp3.1\Richard.Core.IRepository.deps.json
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\bin\Debug\netcoreapp3.1\Richard.Core.IRepository.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\bin\Debug\netcoreapp3.1\Richard.Core.IRepository.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\obj\Debug\netcoreapp3.1\Richard.Core.IRepository.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\obj\Debug\netcoreapp3.1\Richard.Core.IRepository.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\obj\Debug\netcoreapp3.1\Richard.Core.IRepository.AssemblyInfo.cs
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\obj\Debug\netcoreapp3.1\Richard.Core.IRepository.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\obj\Debug\netcoreapp3.1\Richard.Core.IRepository.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IRepository\obj\Debug\netcoreapp3.1\Richard.Core.IRepository.pdb

@@ -1,0 +1,7 @@
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.deps.json
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.AssemblyInfo.cs
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.pdb

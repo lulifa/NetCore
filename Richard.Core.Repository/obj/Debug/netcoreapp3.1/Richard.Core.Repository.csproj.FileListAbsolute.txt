@@ -1,0 +1,9 @@
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\bin\Debug\netcoreapp3.1\Richard.Core.Repository.deps.json
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\bin\Debug\netcoreapp3.1\Richard.Core.Repository.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\bin\Debug\netcoreapp3.1\Richard.Core.Repository.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\obj\Debug\netcoreapp3.1\Richard.Core.Repository.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\obj\Debug\netcoreapp3.1\Richard.Core.Repository.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\obj\Debug\netcoreapp3.1\Richard.Core.Repository.AssemblyInfo.cs
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\obj\Debug\netcoreapp3.1\Richard.Core.Repository.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\obj\Debug\netcoreapp3.1\Richard.Core.Repository.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Repository\obj\Debug\netcoreapp3.1\Richard.Core.Repository.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Richard.Core.Middleware/1.0.0": {
+        "runtime": {
+          "Richard.Core.Middleware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Richard.Core.Middleware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
