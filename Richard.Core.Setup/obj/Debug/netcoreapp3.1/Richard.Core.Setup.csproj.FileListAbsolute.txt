@@ -3,6 +3,10 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreap
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Setup.pdb
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.AssemblyInfoInputs.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.AssemblyInfo.cs
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CoreCompileInputs.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Common.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CopyComplete
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CoreCompileInputs.cache

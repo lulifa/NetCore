@@ -7,7 +7,6 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\bin\Debug\netcoreapp3
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\bin\Debug\netcoreapp3.1\Richard.Core.Api.runtimeconfig.dev.json
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\bin\Debug\netcoreapp3.1\Richard.Core.Api.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\bin\Debug\netcoreapp3.1\Richard.Core.Api.pdb
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\obj\Debug\netcoreapp3.1\Richard.Core.Api.csprojAssemblyReference.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\obj\Debug\netcoreapp3.1\Richard.Core.Api.AssemblyInfoInputs.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\obj\Debug\netcoreapp3.1\Richard.Core.Api.AssemblyInfo.cs
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\obj\Debug\netcoreapp3.1\Richard.Core.Api.csproj.CoreCompileInputs.cache
@@ -18,3 +17,4 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\obj\Debug\netcoreapp3
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\obj\Debug\netcoreapp3.1\Richard.Core.Api.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\obj\Debug\netcoreapp3.1\Richard.Core.Api.pdb
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\obj\Debug\netcoreapp3.1\Richard.Core.Api.genruntimeconfig.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\bin\Debug\netcoreapp3.1\Richard.Core.Api.xml

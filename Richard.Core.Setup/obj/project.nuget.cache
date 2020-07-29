@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "uvitcfonk5n4oxlkBZBvYBbU/xagSI1gO9U+Xi/2FUfrIBTlfh9L0XKPYBbXu8cM72z/1kjWKM2wEEOt9XHyVA==",
+  "dgSpecHash": "MFqsRnGJ/oo4rFfhY/IjfU2M8fKr8UdH9+8QIHkLbkKDTtwZLNkHzll3I6xUk46T2aWhUolRNHYCvB66czRLPQ==",
   "success": true,
   "projectFilePath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.binder.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.7.20364.11\\microsoft.extensions.dependencyinjection.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.7.20364.11\\microsoft.extensions.primitives.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.1\\swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.7.20364.11\\system.runtime.compilerservices.unsafe.5.0.0-preview.7.20364.11.nupkg.sha512"
+  ],
   "logs": []
 }

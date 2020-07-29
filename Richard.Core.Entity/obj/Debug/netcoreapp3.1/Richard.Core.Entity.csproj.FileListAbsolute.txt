@@ -1,7 +1,6 @@
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.deps.json
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.csprojAssemblyReference.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfoInputs.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfo.cs
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.csproj.CoreCompileInputs.cache

@@ -4,5 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\Richard.Core.Api.xml</DocumentationFile>
+  </PropertyGroup>
+
 
 </Project>

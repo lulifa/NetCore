@@ -4,6 +4,6 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\bin\Debug\netcorea
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.csprojAssemblyReference.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.AssemblyInfoInputs.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.AssemblyInfo.cs
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.csproj.CoreCompileInputs.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.csproj.CoreCompileInputs.cache
