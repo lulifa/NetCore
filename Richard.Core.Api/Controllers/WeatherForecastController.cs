@@ -4,9 +4,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Richard.Core.Entity;
 
 namespace Richard.Core.Api.Controllers
 {
+    /// <summary>
+    /// 天气管理
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
@@ -23,6 +27,10 @@ namespace Richard.Core.Api.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// 获取天气列表
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
@@ -34,6 +42,16 @@ namespace Richard.Core.Api.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+        /// <summary>
+        /// 这是爱的post测试
+        /// </summary>
+        /// <param name="love"></param>
+        [HttpPost]
+        public void Post(Love love)
+        {
+
         }
     }
 }

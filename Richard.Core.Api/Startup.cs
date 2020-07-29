@@ -10,6 +10,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Richard.Core.Middleware;
+using Richard.Core.Setup;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace Richard.Core.Api
 {
@@ -26,6 +29,7 @@ namespace Richard.Core.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.ConfigSwaggerSetup(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -34,6 +38,7 @@ namespace Richard.Core.Api
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.ConfigSwaggerMid(Configuration);
             }
 
             app.UseHttpsRedirection();

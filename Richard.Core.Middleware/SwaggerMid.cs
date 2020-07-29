@@ -1,23 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.Configuration;
 using Richard.Core.Common;
-using static Richard.Core.Setup.CustomApiVersion;
+using System.Linq;
 
 namespace Richard.Core.Middleware
 {
     public static class SwaggerMid
     {
-        private static readonly string[] sectionGroup = new string[] { "Startup", "ApiName" };
-        public static void Config(this IApplicationBuilder application)
+        public static void ConfigSwaggerMid(this IApplicationBuilder application, IConfiguration configuration)
         {
             application.UseSwagger();
             application.UseSwaggerUI(c =>
             {
-                string apiName = AppSettingHelper.GetSection(sectionGroup);
-                typeof(ApiVersions).GetEnumNames().OrderByDescending(e => e).ToList().ForEach(version =>
+                string apiName = configuration.GetSection(SystemHelper.SectionGroup);
+                typeof(SystemHelper.ApiVersions).GetEnumNames().OrderByDescending(e => e).ToList().ForEach(version =>
                 {
                     c.SwaggerEndpoint($"/swagger/{version}/swagger.json", $"{apiName} {version}");
                 });

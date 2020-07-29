@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {}
+    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {}
   },
   "projects": {
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {
+    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj",
+        "projectUniqueName": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj",
         "projectName": "Richard.Core.IRepository",
-        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj",
-        "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\obj\\",
+        "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj",
+        "packagesPath": "C:\\Users\\lulifa\\.nuget\\packages\\",
+        "outputPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lulif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\lulifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

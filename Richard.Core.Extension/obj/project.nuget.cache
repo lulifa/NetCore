@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NKrTMTUaZIsBxB1j58TQPvHAa/+845gyUPgnubH88nKLFu+dFSXacf0mqOst3DxhhMsKlNNf7irfsckbjqcTpg==",
+  "dgSpecHash": "3xDv1Rlqt7vudeU+1B2R2l0Pwz6aCyWjdV7es9XrnfgpUoYMgLcJ7EKqzY4vBLiDgfHm6WndWPLHg0IaK/fkKQ==",
   "success": true,
-  "projectFilePath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj",
+  "projectFilePath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

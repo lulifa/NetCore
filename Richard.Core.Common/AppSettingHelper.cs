@@ -6,31 +6,25 @@ using System.Text;
 
 namespace Richard.Core.Common
 {
-    public class AppSettingHelper
+    public static class AppSettingHelper
     {
-        private static IConfiguration Configuration { get; set; }
 
-        public AppSettingHelper(IConfiguration configuration)
-        {
-            Configuration = configuration;
-        }
-
-        public static string GetSection(params string[] sections)
+        public static string GetSection(this IConfiguration configuration, params string[] sections)
         {
             string section = string.Empty;
             if (sections.Any())
             {
-                section = Configuration[string.Join(":", sections)];
+                section = configuration[string.Join(":", sections)];
             }
             return section;
         }
 
-        public static List<T> GetSection<T>(params string[] sections)
+        public static List<T> GetSection<T>(this IConfiguration configuration,params string[] sections)
         {
             List<T> sectionGroups = new List<T>();
             if (sections.Any())
             {
-                Configuration.Bind(string.Join(":", sections), sectionGroups);
+                configuration.Bind(string.Join(":", sections), sectionGroups);
             }
             return sectionGroups;
         }

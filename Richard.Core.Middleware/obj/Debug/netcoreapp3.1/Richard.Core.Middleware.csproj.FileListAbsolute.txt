@@ -6,3 +6,17 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netc
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.pdb
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.csproj.CoreCompileInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.deps.json
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Common.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Setup.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Setup.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.csprojAssemblyReference.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.csproj.CoreCompileInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.AssemblyInfoInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.AssemblyInfo.cs
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.csproj.CopyComplete
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.pdb

@@ -1,21 +1,18 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.OpenApi.Models;
 using Richard.Core.Common;
 using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.OpenApi.Models;
-using static Richard.Core.Setup.CustomApiVersion;
 
 namespace Richard.Core.Setup
 {
     public static class SwaggerSetup
     {
-        private static readonly string[] SectionGroup = new string[] {"Startup", "ApiName"};
-        public static void Config(this IServiceCollection services)
+        
+        public static void ConfigSwaggerSetup(this IServiceCollection services,IConfiguration configuration)
         {
             if (services == null)
             {
@@ -23,10 +20,10 @@ namespace Richard.Core.Setup
             }
 
             string basePath = AppContext.BaseDirectory;
-            string apiName = AppSettingHelper.GetSection(SectionGroup);
+            string apiName = configuration.GetSection(SystemHelper.SectionGroup);
             services.AddSwaggerGen(c =>
             {
-                typeof(ApiVersions).GetEnumNames().ToList().ForEach(version =>
+                typeof(SystemHelper.ApiVersions).GetEnumNames().ToList().ForEach(version =>
                 {
                     c.SwaggerDoc(version, new OpenApiInfo
                     {
@@ -37,12 +34,12 @@ namespace Richard.Core.Setup
                         {
                             Name = apiName,
                             Email = "814570123@qq.com",
-                            Url = new Uri("https://www.cnblogs.com/CoCoSpring/")
+                            Url = new Uri("https://www.cnblogs.com/lulifa/")
                         },
                         License = new OpenApiLicense
                         {
                             Name = $"{apiName} 官方文档",
-                            Url = new Uri("https://www.cnblogs.com/CoCoSpring/")
+                            Url = new Uri("https://www.cnblogs.com/lulifa/")
                         }
                     });
                     c.OrderActionsBy(o => o.RelativePath);
@@ -51,6 +48,8 @@ namespace Richard.Core.Setup
                     {
                         string xmlPath = Path.Combine(basePath, "Richard.Core.Api.xml");
                         c.IncludeXmlComments(xmlPath, true);
+                        string xmlModelPath = Path.Combine(basePath, "Richard.Core.Entity.xml");//这个就是Model层的xml文件名
+                        c.IncludeXmlComments(xmlModelPath);
                     }
                     catch (Exception e)
                     {
@@ -60,15 +59,6 @@ namespace Richard.Core.Setup
 
                 });
             });
-        }
-    }
-
-    public class CustomApiVersion
-    {
-        public enum ApiVersions
-        {
-            V1=1,
-            V2=2
         }
     }
 }

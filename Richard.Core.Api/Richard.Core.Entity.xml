@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Richard.Core.Entity</name>
+    </assembly>
+    <members>
+        <member name="T:Richard.Core.Entity.Love">
+            <summary>
+            这是爱
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.Love.Id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.Love.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.Love.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+    </members>
+</doc>

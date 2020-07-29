@@ -5,8 +5,15 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Api\Richard.Core.Api.xml</DocumentationFile>
+    <DocumentationFile>..\Richard.Core.Api\Richard.Core.Api.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Richard.Core.Entity\Richard.Core.Entity.csproj" />
+    <ProjectReference Include="..\Richard.Core.Middleware\Richard.Core.Middleware.csproj" />
+    <ProjectReference Include="..\Richard.Core.Setup\Richard.Core.Setup.csproj" />
+  </ItemGroup>
 
 
 </Project>

@@ -1,25 +1,157 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj": {}
+    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj": {}
   },
   "projects": {
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj": {
+    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj",
+        "projectUniqueName": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj",
         "projectName": "Richard.Core.Api",
-        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj",
-        "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\obj\\",
+        "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj",
+        "packagesPath": "C:\\Users\\lulifa\\.nuget\\packages\\",
+        "outputPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lulif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\lulifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj": {
+                "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj"
+              },
+              "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj": {
+                "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj"
+              },
+              "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
+                "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
+        "projectName": "Richard.Core.Common",
+        "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\lulifa\\.nuget\\packages\\",
+        "outputPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lulifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20364.11, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20364.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj",
+        "projectName": "Richard.Core.Entity",
+        "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj",
+        "packagesPath": "C:\\Users\\lulifa\\.nuget\\packages\\",
+        "outputPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lulifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,6 +184,74 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj",
+        "projectName": "Richard.Core.Middleware",
+        "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj",
+        "packagesPath": "C:\\Users\\lulifa\\.nuget\\packages\\",
+        "outputPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Middleware\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lulifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
+                "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj"
+              },
+              "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
+                "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
@@ -59,7 +259,79 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj",
+        "projectName": "Richard.Core.Setup",
+        "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj",
+        "packagesPath": "C:\\Users\\lulifa\\.nuget\\packages\\",
+        "outputPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Setup\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lulifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
+                "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20364.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

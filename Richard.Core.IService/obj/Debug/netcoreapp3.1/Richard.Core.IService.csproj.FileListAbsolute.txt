@@ -6,3 +6,12 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IService\obj\Debug\netcor
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.csproj.CoreCompileInputs.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\bin\Debug\netcoreapp3.1\Richard.Core.IService.deps.json
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\bin\Debug\netcoreapp3.1\Richard.Core.IService.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\bin\Debug\netcoreapp3.1\Richard.Core.IService.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.csproj.CoreCompileInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.AssemblyInfoInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.AssemblyInfo.cs
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.csprojAssemblyReference.cache

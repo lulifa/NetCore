@@ -7,3 +7,12 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcorea
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.pdb
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.csproj.CoreCompileInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\bin\Debug\netcoreapp3.1\Richard.Core.Common.deps.json
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\bin\Debug\netcoreapp3.1\Richard.Core.Common.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.csprojAssemblyReference.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.csproj.CoreCompileInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.AssemblyInfoInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.AssemblyInfo.cs
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Common\obj\Debug\netcoreapp3.1\Richard.Core.Common.pdb

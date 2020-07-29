@@ -4,5 +4,22 @@
         <name>Richard.Core.Api</name>
     </assembly>
     <members>
+        <member name="T:Richard.Core.Api.Controllers.WeatherForecastController">
+            <summary>
+            天气管理
+            </summary>
+        </member>
+        <member name="M:Richard.Core.Api.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取天气列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Richard.Core.Api.Controllers.WeatherForecastController.Post(Richard.Core.Entity.Love)">
+            <summary>
+            这是爱的post测试
+            </summary>
+            <param name="love"></param>
+        </member>
     </members>
 </doc>

@@ -10,3 +10,15 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreap
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CopyComplete
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CoreCompileInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Setup.deps.json
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Setup.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Setup.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Common.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csprojAssemblyReference.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CoreCompileInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.AssemblyInfoInputs.cache
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.AssemblyInfo.cs
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CopyComplete
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.dll
+E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.pdb
