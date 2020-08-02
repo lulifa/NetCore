@@ -1,0 +1,12 @@
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Authorization.deps.json
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Authorization.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Authorization.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Common.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.AssemblyInfo.cs
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.csproj.CopyComplete
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.pdb

@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj": {}
+    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj": {}
   },
   "projects": {
-    "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj": {
+    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj",
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj",
         "projectName": "Richard.Core.Aop",
-        "projectPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj",
-        "packagesPath": "C:\\Users\\lulifa\\.nuget\\packages\\",
-        "outputPath": "E:\\项目产品模板\\NetCore最新技术项目\\Richard.Core\\Richard.Core.Extension\\obj\\",
+        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Extension\\Richard.Core.Aop.csproj",
+        "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Extension\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\lulifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lulif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

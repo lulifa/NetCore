@@ -5,21 +5,21 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Api", "Richard.Core.Api\Richard.Core.Api.csproj", "{AD97BE9D-243B-44FB-A8FA-6236026611B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Common", "Richard.Core.Common\Richard.Core.Common.csproj", "{BF347FA5-2F3A-4955-89F8-1C4067079745}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Common", "Richard.Core.Common\Richard.Core.Common.csproj", "{BF347FA5-2F3A-4955-89F8-1C4067079745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Aop", "Richard.Core.Extension\Richard.Core.Aop.csproj", "{D363F17C-8472-49FB-8C6C-A6633C8B741D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Aop", "Richard.Core.Extension\Richard.Core.Aop.csproj", "{D363F17C-8472-49FB-8C6C-A6633C8B741D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.IRepository", "Richard.Core.IRepository\Richard.Core.IRepository.csproj", "{99EF7C4F-49EB-4442-8922-DC83926196E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.IRepository", "Richard.Core.IRepository\Richard.Core.IRepository.csproj", "{99EF7C4F-49EB-4442-8922-DC83926196E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Repository", "Richard.Core.Repository\Richard.Core.Repository.csproj", "{D6848209-4F01-4F1F-A094-452F319B1880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Repository", "Richard.Core.Repository\Richard.Core.Repository.csproj", "{D6848209-4F01-4F1F-A094-452F319B1880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.IService", "Richard.Core.IService\Richard.Core.IService.csproj", "{A23B61D3-F98D-43C5-94B2-68B4BF640596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.IService", "Richard.Core.IService\Richard.Core.IService.csproj", "{A23B61D3-F98D-43C5-94B2-68B4BF640596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Service", "Richard.Core.Service\Richard.Core.Service.csproj", "{009AD1BF-A9FE-4A96-8F10-501159EF2B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Service", "Richard.Core.Service\Richard.Core.Service.csproj", "{009AD1BF-A9FE-4A96-8F10-501159EF2B16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Entity", "Richard.Core.Entity\Richard.Core.Entity.csproj", "{D1C7114B-4078-4D19-9E37-D69AD2EB6454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Entity", "Richard.Core.Entity\Richard.Core.Entity.csproj", "{D1C7114B-4078-4D19-9E37-D69AD2EB6454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Task", "Richard.Core.Task\Richard.Core.Task.csproj", "{A30A3F57-DB04-422B-AF62-5683128B0D09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Task", "Richard.Core.Task\Richard.Core.Task.csproj", "{A30A3F57-DB04-422B-AF62-5683128B0D09}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 CoreApi", "1 CoreApi", "{87D7C057-A8BB-42DA-84D4-F00204CAE0E6}"
 EndProject
@@ -35,9 +35,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 CoreCommon", "6 CoreCommo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 CoreTask", "7 CoreTask", "{0A6A5105-3205-45BB-9DA5-CBF21BF66941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Middleware", "Richard.Core.Middleware\Richard.Core.Middleware.csproj", "{9203CCC8-F18E-4026-8D66-075B2B77C1FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Middleware", "Richard.Core.Middleware\Richard.Core.Middleware.csproj", "{9203CCC8-F18E-4026-8D66-075B2B77C1FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Setup", "Richard.Core.Setup\Richard.Core.Setup.csproj", "{4A66CE84-EBAD-465E-ACBE-F249669075F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richard.Core.Setup", "Richard.Core.Setup\Richard.Core.Setup.csproj", "{4A66CE84-EBAD-465E-ACBE-F249669075F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard.Core.Authorization", "Richard.Core.Authorization\Richard.Core.Authorization.csproj", "{2D7946C7-D996-4E36-9636-EB8E44BAE8B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,6 +91,10 @@ Global
 		{4A66CE84-EBAD-465E-ACBE-F249669075F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A66CE84-EBAD-465E-ACBE-F249669075F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A66CE84-EBAD-465E-ACBE-F249669075F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7946C7-D996-4E36-9636-EB8E44BAE8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7946C7-D996-4E36-9636-EB8E44BAE8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7946C7-D996-4E36-9636-EB8E44BAE8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7946C7-D996-4E36-9636-EB8E44BAE8B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -105,6 +111,7 @@ Global
 		{A30A3F57-DB04-422B-AF62-5683128B0D09} = {0A6A5105-3205-45BB-9DA5-CBF21BF66941}
 		{9203CCC8-F18E-4026-8D66-075B2B77C1FF} = {0D254DAE-CAE7-4182-AB90-1D6371B9F647}
 		{4A66CE84-EBAD-465E-ACBE-F249669075F2} = {0D254DAE-CAE7-4182-AB90-1D6371B9F647}
+		{2D7946C7-D996-4E36-9636-EB8E44BAE8B1} = {0D254DAE-CAE7-4182-AB90-1D6371B9F647}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5615D8F1-30D6-4E88-99CA-D1FEA2506F81}

@@ -1,11 +1,3 @@
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.deps.json
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.dll
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfoInputs.cache
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfo.cs
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.csproj.CoreCompileInputs.cache
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.dll
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.deps.json
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.dll
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
@@ -15,3 +7,13 @@ E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Entity
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfo.cs
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.dll
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.deps.json
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.xml
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfo.cs
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.csprojAssemblyReference.cache

@@ -1,11 +1,3 @@
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.deps.json
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.dll
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.pdb
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.AssemblyInfoInputs.cache
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.AssemblyInfo.cs
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.csproj.CoreCompileInputs.cache
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.dll
-C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.pdb
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.deps.json
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.dll
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.pdb
@@ -15,3 +7,12 @@ E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Task\o
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.AssemblyInfo.cs
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.dll
 E:\项目产品模板\NetCore最新技术项目\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.deps.json
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\bin\Debug\netcoreapp3.1\Richard.Core.Task.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.AssemblyInfo.cs
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.dll
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.pdb
+C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Task\obj\Debug\netcoreapp3.1\Richard.Core.Task.csprojAssemblyReference.cache

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "wklOvVr30FE6WOrY0pVJFrDqhIhkBgGMd8EnIjGHP34ibZiSm/ak3U33cVK4sZpeuLTUodhjLpYECIlQ9Nicug==",
+  "success": true,
+  "projectFilePath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Authorization\\Richard.Core.Authorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.binder.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.fileextensions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.json.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.fileproviders.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0-preview.7.20364.11\\microsoft.extensions.fileproviders.physical.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0-preview.7.20364.11\\microsoft.extensions.filesystemglobbing.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.7.20364.11\\microsoft.extensions.primitives.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.7.20364.11\\system.runtime.compilerservices.unsafe.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\system.text.encodings.web\\5.0.0-preview.7.20364.11\\system.text.encodings.web.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\lulif\\.nuget\\packages\\system.text.json\\5.0.0-preview.7.20364.11\\system.text.json.5.0.0-preview.7.20364.11.nupkg.sha512"
+  ],
+  "logs": []
+}
