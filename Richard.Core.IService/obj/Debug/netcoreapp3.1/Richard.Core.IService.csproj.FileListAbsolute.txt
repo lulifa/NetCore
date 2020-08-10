@@ -16,3 +16,12 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IService\obj\Debug\netcor
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.pdb
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\bin\Debug\netcoreapp3.1\Richard.Core.IService.deps.json
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\bin\Debug\netcoreapp3.1\Richard.Core.IService.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\bin\Debug\netcoreapp3.1\Richard.Core.IService.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.AssemblyInfo.cs
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.IService\obj\Debug\netcoreapp3.1\Richard.Core.IService.pdb

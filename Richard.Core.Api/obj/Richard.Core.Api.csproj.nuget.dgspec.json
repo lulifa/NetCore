@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj": {}
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj": {}
   },
   "projects": {
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj": {
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj",
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj",
         "projectName": "Richard.Core.Api",
-        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj",
+        "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Api\\Richard.Core.Api.csproj",
         "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Api\\obj\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,14 +31,20 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj": {
-                "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj"
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Authorization\\Richard.Core.Authorization.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Authorization\\Richard.Core.Authorization.csproj"
               },
-              "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj": {
-                "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj"
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj"
               },
-              "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
-                "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj"
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj"
+              },
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Model\\Richard.Core.Model.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Model\\Richard.Core.Model.csproj"
+              },
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj"
               }
             }
           }
@@ -79,14 +85,80 @@
         }
       }
     },
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Authorization\\Richard.Core.Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
-        "projectName": "Richard.Core.Common",
-        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Authorization\\Richard.Core.Authorization.csproj",
+        "projectName": "Richard.Core.Authorization",
+        "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Authorization\\Richard.Core.Authorization.csproj",
         "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\obj\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Authorization\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lulif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
+        "projectName": "Richard.Core.Common",
+        "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -149,14 +221,14 @@
         }
       }
     },
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj": {
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj",
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj",
         "projectName": "Richard.Core.Entity",
-        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj",
+        "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Entity\\Richard.Core.Entity.csproj",
         "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Entity\\obj\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -205,14 +277,14 @@
         }
       }
     },
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj": {
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj",
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj",
         "projectName": "Richard.Core.Middleware",
-        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj",
+        "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Middleware\\Richard.Core.Middleware.csproj",
         "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Middleware\\obj\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -232,11 +304,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
-                "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj"
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj"
               },
-              "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
-                "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj"
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj"
               }
             }
           }
@@ -266,9 +338,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -277,14 +346,70 @@
         }
       }
     },
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Model\\Richard.Core.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj",
-        "projectName": "Richard.Core.Setup",
-        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj",
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Model\\Richard.Core.Model.csproj",
+        "projectName": "Richard.Core.Model",
+        "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Model\\Richard.Core.Model.csproj",
         "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Setup\\obj\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lulif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj",
+        "projectName": "Richard.Core.Setup",
+        "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Setup\\Richard.Core.Setup.csproj",
+        "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Setup\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -304,8 +429,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
-                "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj"
+              "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj": {
+                "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj"
               }
             }
           }
@@ -319,9 +444,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[5.0.0-preview.7.20364.11, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -343,9 +476,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

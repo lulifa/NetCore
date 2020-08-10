@@ -16,3 +16,11 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Service\obj\Debug\netcore
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.pdb
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\bin\Debug\netcoreapp3.1\Richard.Core.Service.deps.json
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\bin\Debug\netcoreapp3.1\Richard.Core.Service.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\bin\Debug\netcoreapp3.1\Richard.Core.Service.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.AssemblyInfo.cs
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.pdb

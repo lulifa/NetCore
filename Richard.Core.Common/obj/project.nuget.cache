@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wNnAoPtKvCUGcANB+hQMbFG+/F9op3GtJUPY8staKQ1Uwr57eYs4KGLBtugNhLBlKf6kSTp5Ie4kWYebJuRZzA==",
+  "dgSpecHash": "xnh2jUAA3UJWVpLHTwRj4wkZNDfxh9CMM8dKalt0q1oBxWNl2fP19m9BgdnLsH/wn3Z/KPaF5i8RQg02K+t6WA==",
   "success": true,
-  "projectFilePath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
+  "projectFilePath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.5.0.0-preview.7.20364.11.nupkg.sha512",
     "C:\\Users\\lulif\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.configuration.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",

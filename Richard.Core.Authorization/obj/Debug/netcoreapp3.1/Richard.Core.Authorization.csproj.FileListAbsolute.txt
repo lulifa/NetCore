@@ -10,3 +10,15 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\n
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.csproj.CopyComplete
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Authorization.deps.json
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Authorization.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Authorization.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Common.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.AssemblyInfo.cs
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.csproj.CopyComplete
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Authorization\obj\Debug\netcoreapp3.1\Richard.Core.Authorization.pdb

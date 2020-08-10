@@ -14,3 +14,11 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Extension\obj\Debug\netco
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.csproj.CoreCompileInputs.cache
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\bin\Debug\netcoreapp3.1\Richard.Core.Aop.deps.json
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\bin\Debug\netcoreapp3.1\Richard.Core.Aop.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\bin\Debug\netcoreapp3.1\Richard.Core.Aop.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.AssemblyInfo.cs
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.pdb

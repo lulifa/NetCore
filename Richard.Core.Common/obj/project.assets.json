@@ -409,11 +409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
+      "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
       "projectName": "Richard.Core.Common",
-      "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
+      "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\Richard.Core.Common.csproj",
       "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-      "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.Common\\obj\\",
+      "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

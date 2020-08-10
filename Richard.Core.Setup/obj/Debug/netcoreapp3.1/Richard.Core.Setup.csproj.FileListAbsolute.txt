@@ -22,3 +22,15 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreap
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CopyComplete
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Setup.deps.json
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Setup.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Setup.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Common.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.AssemblyInfo.cs
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.csproj.CopyComplete
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Setup\obj\Debug\netcoreapp3.1\Richard.Core.Setup.pdb

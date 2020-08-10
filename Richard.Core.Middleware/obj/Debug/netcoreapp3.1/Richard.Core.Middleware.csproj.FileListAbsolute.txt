@@ -26,3 +26,17 @@ C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netc
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.csproj.CopyComplete
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.dll
 C:\UserAccountLuLiFa\NetCore\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.deps.json
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Middleware.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Common.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Setup.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Common.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\bin\Debug\netcoreapp3.1\Richard.Core.Setup.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.csprojAssemblyReference.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.AssemblyInfoInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.AssemblyInfo.cs
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.csproj.CoreCompileInputs.cache
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.csproj.CopyComplete
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.dll
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Middleware\obj\Debug\netcoreapp3.1\Richard.Core.Middleware.pdb

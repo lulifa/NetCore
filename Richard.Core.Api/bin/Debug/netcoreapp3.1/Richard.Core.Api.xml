@@ -4,6 +4,14 @@
         <name>Richard.Core.Api</name>
     </assembly>
     <members>
+        <member name="M:Richard.Core.Api.Controllers.LoginController.GetJwtStr(System.String,System.String)">
+            <summary>
+            获取字符串
+            </summary>
+            <param name="name"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
         <member name="T:Richard.Core.Api.Controllers.WeatherForecastController">
             <summary>
             天气管理

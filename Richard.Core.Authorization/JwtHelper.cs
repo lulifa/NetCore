@@ -51,7 +51,7 @@ namespace Richard.Core.Authorization
             claims.Add(new Claim(JwtRegisteredClaimNames.Exp, $"{new DateTimeOffset(DateTime.Now.AddSeconds(1000)).ToUnixTimeSeconds()}"));
             claims.Add(new Claim(JwtRegisteredClaimNames.Iss, issuer));
             claims.Add(new Claim(JwtRegisteredClaimNames.Aud, audience));
-            claims.Add(new Claim(ClaimTypes.Expiration, DateTime.Now.AddSeconds(1000).ToString()));
+            //claims.Add(new Claim(ClaimTypes.Expiration, DateTime.Now.AddSeconds(1000).ToString()));
             claims.AddRange(tokenModelJwt.Role.Split(',').Select(item => new Claim(ClaimTypes.Role, item)));
 
             SymmetricSecurityKey securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secret));

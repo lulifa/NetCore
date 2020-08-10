@@ -14,8 +14,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Richard.Core.Authorization\Richard.Core.Authorization.csproj" />
     <ProjectReference Include="..\Richard.Core.Entity\Richard.Core.Entity.csproj" />
     <ProjectReference Include="..\Richard.Core.Middleware\Richard.Core.Middleware.csproj" />
+    <ProjectReference Include="..\Richard.Core.Model\Richard.Core.Model.csproj" />
     <ProjectReference Include="..\Richard.Core.Setup\Richard.Core.Setup.csproj" />
   </ItemGroup>
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {}
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {}
   },
   "projects": {
-    "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {
+    "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj",
+        "projectUniqueName": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj",
         "projectName": "Richard.Core.IRepository",
-        "projectPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj",
+        "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj",
         "packagesPath": "C:\\Users\\lulif\\.nuget\\packages\\",
-        "outputPath": "C:\\UserAccountLuLiFa\\NetCore\\Richard.Core\\Richard.Core.IRepository\\obj\\",
+        "outputPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

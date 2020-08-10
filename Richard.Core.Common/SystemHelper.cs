@@ -9,7 +9,7 @@ namespace Richard.Core.Common
     {
         public static readonly string JwtOauth2 = "oauth2";
         public static readonly string[] SectionGroup = new string[] { "Startup", "ApiName" };
-        public static readonly string[] SecretGroup = new string[] { "Audience", "SecretFile" };
+        public static readonly string[] SecretGroup = new string[] { "Audience", "Secret" };
         public static readonly string[] SecretFileGroup = new string[] { "Audience", "SecretFile" };
         public static  string Audience_Secret => InitAudienceSecret();
 

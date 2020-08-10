@@ -34,6 +34,7 @@ namespace Richard.Core.Api
             services.AddSingleton(new AppSettingHelper(Configuration));
             //services.AddSingleton(new AppSettingHelper(ApplicationEnvironment.ApplicationBasePath));
             services.ConfigSwaggerSetup();
+            services.ConfigureBearerJwtSetup();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,6 +49,8 @@ namespace Richard.Core.Api
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
