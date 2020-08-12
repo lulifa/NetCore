@@ -22,3 +22,4 @@ C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.csproj.CoreCompileInputs.cache
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.dll
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Extension\obj\Debug\netcoreapp3.1\Richard.Core.Aop.csprojAssemblyReference.cache

@@ -33,6 +33,7 @@ namespace Richard.Core.Api
             services.AddControllers();
             services.AddSingleton(new AppSettingHelper(Configuration));
             //services.AddSingleton(new AppSettingHelper(ApplicationEnvironment.ApplicationBasePath));
+            services.ConfigSqlSugarSetup();
             services.ConfigSwaggerSetup();
             services.ConfigureBearerJwtSetup();
         }

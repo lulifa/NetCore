@@ -24,3 +24,4 @@ C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\ob
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.csproj.CoreCompileInputs.cache
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.dll
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Service\obj\Debug\netcoreapp3.1\Richard.Core.Service.csprojAssemblyReference.cache

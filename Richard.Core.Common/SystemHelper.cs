@@ -11,6 +11,12 @@ namespace Richard.Core.Common
         public static readonly string[] SectionGroup = new string[] { "Startup", "ApiName" };
         public static readonly string[] SecretGroup = new string[] { "Audience", "Secret" };
         public static readonly string[] SecretFileGroup = new string[] { "Audience", "SecretFile" };
+
+        public static readonly string DBS = "DBS";
+        public static readonly string MutiDBEnabled = "MutiDBEnabled";
+        public static readonly string CQRSEnabled = "CQRSEnabled";
+        public static readonly string MainDB = "MainDB";
+
         public static  string Audience_Secret => InitAudienceSecret();
 
         private static string InitAudienceSecret()
