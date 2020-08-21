@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Richard.Core.Repository/1.0.0": {
         "dependencies": {
+          "Richard.Core.IRepository": "1.0.0",
           "sqlSugarCore": "5.0.0.15"
         },
         "runtime": {
@@ -1137,6 +1138,14 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
+      },
+      "Richard.Core.IRepository/1.0.0": {
+        "dependencies": {
+          "sqlSugarCore": "5.0.0.15"
+        },
+        "runtime": {
+          "Richard.Core.IRepository.dll": {}
+        }
       }
     }
   },
@@ -1915,6 +1924,11 @@
       "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Richard.Core.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

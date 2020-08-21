@@ -1812,6 +1812,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
+      },
+      "Richard.Core.IRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "sqlSugarCore": "5.0.0.15"
+        },
+        "compile": {
+          "bin/placeholder/Richard.Core.IRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Richard.Core.IRepository.dll": {}
+        }
       }
     }
   },
@@ -6295,10 +6308,16 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
+    },
+    "Richard.Core.IRepository/1.0.0": {
+      "type": "project",
+      "path": "../Richard.Core.IRepository/Richard.Core.IRepository.csproj",
+      "msbuildProject": "../Richard.Core.IRepository/Richard.Core.IRepository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Richard.Core.IRepository >= 1.0.0",
       "sqlSugarCore >= 5.0.0.15"
     ]
   },
@@ -6332,7 +6351,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj": {
+              "projectPath": "C:\\UserAccountLuLiFa\\Git开源项目\\Lulifa\\Richard.Core\\Richard.Core.IRepository\\Richard.Core.IRepository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

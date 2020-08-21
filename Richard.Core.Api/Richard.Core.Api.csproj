@@ -10,15 +10,34 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.DotNet.PlatformAbstractions" Version="3.1.6" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Richard.Core.Authorization\Richard.Core.Authorization.csproj" />
     <ProjectReference Include="..\Richard.Core.Entity\Richard.Core.Entity.csproj" />
+    <ProjectReference Include="..\Richard.Core.IService\Richard.Core.IService.csproj" />
     <ProjectReference Include="..\Richard.Core.Middleware\Richard.Core.Middleware.csproj" />
     <ProjectReference Include="..\Richard.Core.Model\Richard.Core.Model.csproj" />
+    <ProjectReference Include="..\Richard.Core.Repository\Richard.Core.Repository.csproj" />
+    <ProjectReference Include="..\Richard.Core.Service\Richard.Core.Service.csproj" />
     <ProjectReference Include="..\Richard.Core.Setup\Richard.Core.Setup.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 

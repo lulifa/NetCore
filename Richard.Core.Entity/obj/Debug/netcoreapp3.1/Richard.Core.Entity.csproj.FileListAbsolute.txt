@@ -21,9 +21,9 @@ C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\bin
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.dll
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\bin\Debug\netcoreapp3.1\Richard.Core.Entity.xml
-C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.csprojAssemblyReference.cache
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfoInputs.cache
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.AssemblyInfo.cs
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.csproj.CoreCompileInputs.cache
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.dll
 C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.pdb
+C:\UserAccountLuLiFa\Git开源项目\Lulifa\Richard.Core\Richard.Core.Entity\obj\Debug\netcoreapp3.1\Richard.Core.Entity.csprojAssemblyReference.cache

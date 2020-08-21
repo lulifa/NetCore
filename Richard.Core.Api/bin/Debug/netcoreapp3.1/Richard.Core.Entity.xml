@@ -4,6 +4,67 @@
         <name>Richard.Core.Entity</name>
     </assembly>
     <members>
+        <member name="T:Richard.Core.Entity.BlogArticle">
+            <summary>
+            博客文章
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.bID">
+            <summary>
+            主键
+            </summary>
+            这里之所以没用RootEntity，是想保持和之前的数据库一致，主键是bID，不是Id
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.bsubmitter">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.btitle">
+            <summary>
+            标题blog
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.bcategory">
+            <summary>
+            类别
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.bcontent">
+            <summary>
+            内容
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.btraffic">
+            <summary>
+            访问量
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.bcommentNum">
+            <summary>
+            评论数量
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.bUpdateTime">
+            <summary> 
+            修改时间
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.bCreateTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.bRemark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Richard.Core.Entity.BlogArticle.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
         <member name="T:Richard.Core.Entity.Love">
             <summary>
             这是爱

@@ -10,4 +10,8 @@
     <OutputPath></OutputPath>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="sqlSugarCore" Version="5.0.0.15" />
+  </ItemGroup>
+
 </Project>
